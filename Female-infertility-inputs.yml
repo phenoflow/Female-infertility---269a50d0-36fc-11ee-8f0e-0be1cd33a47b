@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/female-infertility---primary.py
+inputModule3:
+  class: File
+  path: python/infertility---primary.py
+inputModule4:
+  class: File
+  path: python/female-infertility-anovulatory---primary.py
+inputModule5:
+  class: File
+  path: python/hypothalamic-female-infertility---primary.py
+inputModule6:
+  class: File
+  path: python/female-infertility-tubal---primary.py
+inputModule7:
+  class: File
+  path: python/female-infertility-uterine---primary.py
+inputModule8:
+  class: File
+  path: python/cervical-female-infertility---primary.py
+inputModule9:
+  class: File
+  path: python/vaginal-female-infertility---primary.py
+inputModule10:
+  class: File
+  path: python/other-female-infertility---primary.py
+inputModule11:
+  class: File
+  path: python/female-infertility-unspecified---primary.py
+inputModule12:
+  class: File
+  path: python/female-infertility-subfertility---primary.py
+inputModule13:
+  class: File
+  path: python/possible-female-infertility---primary.py
+inputModule14:
+  class: File
+  path: python/female-infertility---secondary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
